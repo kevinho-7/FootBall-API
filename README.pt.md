@@ -1,5 +1,7 @@
 # Football Scouts API ⚽
 
+<img src="https://flagcdn.com/20x15/us.png" width="25"> [**`English Version`**](./README.md)
+
 > Projeto acadêmico desenvolvido para o curso **CSE341 - Web Services** como parte do meu bacharelado em Desenvolvimento de Software.
 
 Football Scouts API é um serviço web RESTful projetado para ajudar olheiros de futebol a gerenciar dados de jogadores, times, partidas e estatísticas de jogos. O projeto foi desenvolvido como um trabalho universitário com o objetivo de praticar conceitos de desenvolvimento back-end usando Node.js, MongoDB e princípios de API-first design.
